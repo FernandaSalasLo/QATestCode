@@ -1,0 +1,10 @@
+{
+  "credenciales": {
+    "usuario": "tomsmith",
+    "contrasena": "SuperSecretPassword!",
+    "usuarioIncorrecto": "Tommmmssmith",
+    "contrasenaIncorrecta": "SsuperSecrettPasword"
+
+
+  }
+}
